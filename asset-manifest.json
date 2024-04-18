@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/grupocreativo.github.io/static/js/main.5df2c1d0.js",
+    "main.js": "/grupocreativo.github.io/static/js/main.fb490ad2.js",
     "index.html": "/grupocreativo.github.io/index.html",
-    "main.5df2c1d0.js.map": "/grupocreativo.github.io/static/js/main.5df2c1d0.js.map"
+    "main.fb490ad2.js.map": "/grupocreativo.github.io/static/js/main.fb490ad2.js.map"
   },
   "entrypoints": [
-    "static/js/main.5df2c1d0.js"
+    "static/js/main.fb490ad2.js"
   ]
 }
