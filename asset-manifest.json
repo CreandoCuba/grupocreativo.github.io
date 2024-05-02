@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/grupocreativo.github.io/static/css/main.e3ab6faf.css",
-    "main.js": "/grupocreativo.github.io/static/js/main.0953c35a.js",
+    "main.css": "/grupocreativo.github.io/static/css/main.14138cc1.css",
+    "main.js": "/grupocreativo.github.io/static/js/main.fc77570c.js",
     "index.html": "/grupocreativo.github.io/index.html",
-    "main.e3ab6faf.css.map": "/grupocreativo.github.io/static/css/main.e3ab6faf.css.map",
-    "main.0953c35a.js.map": "/grupocreativo.github.io/static/js/main.0953c35a.js.map"
+    "main.14138cc1.css.map": "/grupocreativo.github.io/static/css/main.14138cc1.css.map",
+    "main.fc77570c.js.map": "/grupocreativo.github.io/static/js/main.fc77570c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3ab6faf.css",
-    "static/js/main.0953c35a.js"
+    "static/css/main.14138cc1.css",
+    "static/js/main.fc77570c.js"
   ]
 }
