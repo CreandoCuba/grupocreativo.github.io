@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/grupocreativo.github.io/static/css/main.14138cc1.css",
-    "main.js": "/grupocreativo.github.io/static/js/main.2532f44f.js",
+    "main.css": "/grupocreativo.github.io/static/css/main.c2b40224.css",
+    "main.js": "/grupocreativo.github.io/static/js/main.353febf0.js",
+    "static/media/slick.svg": "/grupocreativo.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/grupocreativo.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/grupocreativo.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/grupocreativo.github.io/index.html",
-    "main.14138cc1.css.map": "/grupocreativo.github.io/static/css/main.14138cc1.css.map",
-    "main.2532f44f.js.map": "/grupocreativo.github.io/static/js/main.2532f44f.js.map"
+    "static/media/slick.woff": "/grupocreativo.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "main.c2b40224.css.map": "/grupocreativo.github.io/static/css/main.c2b40224.css.map",
+    "main.353febf0.js.map": "/grupocreativo.github.io/static/js/main.353febf0.js.map"
   },
   "entrypoints": [
-    "static/css/main.14138cc1.css",
-    "static/js/main.2532f44f.js"
+    "static/css/main.c2b40224.css",
+    "static/js/main.353febf0.js"
   ]
 }
